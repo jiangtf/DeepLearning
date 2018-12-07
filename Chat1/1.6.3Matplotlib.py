@@ -9,3 +9,6 @@ from matplotlib.pyplot import imread
 img =imread('11.png')
 plt.imshow(img)
 plt.show()
+
+
+
